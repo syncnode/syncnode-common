@@ -1,0 +1,19 @@
+{
+  "name": "syncnode-common",
+  "version": "1.0.1",
+  "description": "",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncnode/syncnode-client.git"
+  },
+  "author": "Justin Kalweit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syncnode/syncnode-common/issues"
+  },
+  "homepage": "https://github.com/syncnode/syncnode-common#readme"
+}
